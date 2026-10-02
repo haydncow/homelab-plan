@@ -1,2 +1,42 @@
-# homelab-plan
-Planning and research for my Raspberry Pi homelab: parts, diagrams and security plan
+# Raspberry Pi Homelab Plan 
+
+This is where I'm going to plan and research my first home lab before I build it. I want to use it to learn more about networking and security in a hands-on way, instead of just reading about it. 
+
+## Why I'm building it 
+
+- To learn how networks work in practice 
+
+- To block ads and trackers across my home network 
+
+- To practise securing devices and remote access 
+
+- To have a safe space to test things as I learn cyber security 
+
+## The plan 
+
+- **Budget:** £200-300 
+
+- **Hardware:** Raspberry Pis in a 10 inch rack 
+
+- **Services:** Pi-hole for network-wide ad blocking, plus secure remote access so I can manage it from outside my home network 
+
+I'm designing the rack layout and network first so I know exactly what to buy. 
+
+## What's in this repo 
+
+- [Parts list](parts-list.md) - what I plan to buy and why
+- [Security plan](security-plan.md) - how I'll keep it secure
+- [Research notes](research-notes.md) - what I've learned while planning
+
+## Progress
+
+- [x] Decide on budget and goals
+- [ ] Research hardware
+- [ ] Finish parts list
+- [ ] Draw network diagram
+- [ ] Design rack layout
+- [ ] Write security plan
+- [ ] Buy parts
+- [ ] Build it
+
+I'll keep this updated as I go.
