@@ -38,7 +38,7 @@ I'm designing the rack layout and network first so I know exactly what to buy.
 - [x] Finish parts list
 - [ ] Draw network diagram
 - [ ] Design rack layout
-- [ ] Write security plan
+- [x] Write security plan
 - [ ] Buy parts
 - [ ] Build it
       
