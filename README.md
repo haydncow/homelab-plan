@@ -36,8 +36,8 @@ I'm designing the rack layout and network first so I know exactly what to buy.
 - [x] Research remote access (VPNs)
 - [x] Research hardware
 - [x] Finish parts list
-- [ ] Draw network diagram
-- [ ] Design rack layout
+- [x] Draw network diagram
+- [x] Design rack layout
 - [x] Write security plan
 - [ ] Buy parts
 - [ ] Build it
