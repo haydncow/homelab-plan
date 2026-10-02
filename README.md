@@ -31,6 +31,9 @@ I'm designing the rack layout and network first so I know exactly what to buy.
 ## Progress
 
 - [x] Decide on budget and goals
+- [ ] Learn networking basics
+- [ ] Research Pi-hole and DNS
+- [ ] Research remote access (VPNs)
 - [ ] Research hardware
 - [ ] Finish parts list
 - [ ] Draw network diagram
@@ -38,5 +41,5 @@ I'm designing the rack layout and network first so I know exactly what to buy.
 - [ ] Write security plan
 - [ ] Buy parts
 - [ ] Build it
-
+      
 I'll keep this updated as I go.
